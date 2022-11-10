@@ -16,7 +16,7 @@
 
 * Unit test cases for repository is covered
 
-# Scope of Improvement
+# Scope of Improvements
 
 * Pagination(Currently all list data is being fetched at once, this is not an efficient way on the app side, we can modify the api and add pagination by loading more content while scrolling)
 * Offline cache(We can cache the response and use that response and use that response when there is no network )
