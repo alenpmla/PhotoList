@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Photos</string>
+    <string name="photo_empty_text">No Photos Available</string>
+    <string name="error_text">Error Loading Data</string>
+    <string name="text_retry">Retry</string>
+    <string name="text_open">Open</string>
+    <string name="text_arrow_back">Arrow Back</string>
+    <string name="text_photo_details">Photo Details</string>
+    <string name="text_refresh">Refresh Button</string>
+</resources>
